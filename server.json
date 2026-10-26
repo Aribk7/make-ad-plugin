@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "ad.make/make-ad",
+  "title": "make.ad",
+  "description": "Finished video ads from a brief, plus AI pictures, clips (free LTX-2.5), songs and short films.",
+  "version": "1.0.0",
+  "websiteUrl": "https://www.make.ad/mcp",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://www.make.ad/api/mcp"
+    }
+  ]
+}
