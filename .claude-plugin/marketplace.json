@@ -1,0 +1,14 @@
+{
+  "name": "make-ad",
+  "owner": {
+    "name": "make.ad",
+    "url": "https://www.make.ad"
+  },
+  "plugins": [
+    {
+      "name": "make-ad",
+      "source": "./",
+      "description": "Finished video ads, AI pictures, clips, songs and short films from Claude, through make.ad's MCP server."
+    }
+  ]
+}

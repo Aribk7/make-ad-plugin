@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "make-ad": {
+      "type": "http",
+      "url": "https://www.make.ad/api/mcp"
+    }
+  }
+}

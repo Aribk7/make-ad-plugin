@@ -1,0 +1,26 @@
+{
+  "name": "make-ad",
+  "displayName": "make.ad",
+  "version": "1.0.0",
+  "description": "Make finished video ads from a brief inside Claude: script, voice or song, character, scenes, clips and the cut, with a review at each stage. Also AI pictures, video clips (free LTX-2.5), songs, UGC talking-head ads and short films.",
+  "author": {
+    "name": "make.ad",
+    "url": "https://www.make.ad"
+  },
+  "homepage": "https://www.make.ad/mcp",
+  "repository": "https://github.com/Aribk7/make-ad-plugin",
+  "license": "MIT",
+  "keywords": [
+    "video ads",
+    "ai video",
+    "ugc ads",
+    "ad creative",
+    "text to video",
+    "image generation",
+    "suno",
+    "seedance",
+    "free ai video",
+    "marketing"
+  ],
+  "icon": "./.claude-plugin/icon.png"
+}
