@@ -41,3 +41,5 @@ Claude (web and desktop), ChatGPT, Cursor and Codex: one-step setup at https://w
 ## License
 
 MIT
+
+make.ad is built by the team behind [Revana](https://revana.si).
